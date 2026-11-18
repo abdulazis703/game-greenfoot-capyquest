@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SoalMath1
+comment1.params=
+comment1.target=SoalMath1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SoalMath1.\r\n
+comment2.params=
+comment2.target=void\ tampilkanNyawa()
+comment2.text=\r\n\ Fungsi\ untuk\ menampilkan\ icon\ nyawa\ berjejer\r\n
+numComments=3
