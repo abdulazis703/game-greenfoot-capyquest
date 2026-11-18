@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Awan
+comment1.params=initialSpeed\ startsRight
+comment1.target=Awan(int,\ boolean)
+comment1.text=\r\n\ Constructor\ untuk\ kelas\ Awan.\r\n\ @param\ initialSpeed\ Kecepatan\ awal.\r\n\ @param\ startsRight\ Apakah\ awan\ mulai\ bergerak\ ke\ kanan?\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveCloud()
+numComments=4
